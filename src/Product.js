@@ -1,6 +1,6 @@
 import React from 'react';
 import './Product.css';
-import { ShoppingBasket } from '@mui/icons-material';
+import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import { useStateValue } from './StateProvider';
 
 function Product({ id, title, price, image, rating }) {
@@ -39,9 +39,9 @@ function Product({ id, title, price, image, rating }) {
 
       <img src={image} alt='' />
 
-      <button onClick={addToBasket}>Add to Basket
+      <button onClick={addToBasket}>Add to Cart
         <div className='basket__icon'>
-          <ShoppingBasket />
+          <ShoppingCartIcon />
         </div>
       </button>
     </div>
