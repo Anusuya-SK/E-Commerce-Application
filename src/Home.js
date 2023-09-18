@@ -31,21 +31,21 @@ function Home() {
 
         <div className='home__row'>
         <Product 
-            id="12345675"
+            id="123"
             title="Develop a full-stack web application with Python and Flask"
             price={34.99}
             image="https://m.media-amazon.com/images/I/817UHYHfKjL._AC_UY218_.jpg"
             rating={4}
           />
           <Product 
-            id="12345675"
+            id="1234"
             title="Full Stack Web Development: Round One - Begin!"
             price={24.99}
             image="https://m.media-amazon.com/images/I/41yJ8e1u3ML._AC_UY218_.jpg"
             rating={4}
           />
           <Product 
-            id="12345675"
+            id="123456753"
             title="Full-stack Vue: The Complete Guide to Vue.js"
             price={37.86}
             image="https://m.media-amazon.com/images/I/61OsNehAtjL._AC_UY218_.jpg"
@@ -55,21 +55,21 @@ function Home() {
 
         <div className='home__row'>
           <Product 
-              id="12345675"
+              id="123456"
               title="Road to React: Your Journey to Master React.js in JavaScript"
               price={29.34}
               image="https://m.media-amazon.com/images/I/51EyrsWbMGL._AC_UY218_.jpg"
               rating={4}
             />
             <Product 
-              id="12345675"
+              id="1234567"
               title="Secrets of the JavaScript Ninja"
               price={44.99}
               image="https://m.media-amazon.com/images/I/81hvVfnV1iL._AC_UY218_.jpg"
               rating={5}
             />
             <Product 
-              id="12345675"
+              id="1234567524"
               title="JavaScript: The Definitive Guide"
               price={43.99}
               image="https://m.media-amazon.com/images/I/91hUer84PpL._AC_UY218_.jpg"
@@ -79,7 +79,7 @@ function Home() {
 
         <div className='home__row'>
           <Product 
-              id="12345675"
+              id="12345687"
               title="C# 8.0 and .NET Core 3.0 - Modern Cross-Platform Development: Build applications with C#, .NET Core, Entity Framework Core, ASP.NET Core, and ML.NET using Visual Studio Code, 4th Edition"
               price={72.99}
               image="https://images-na.ssl-images-amazon.com/images/I/51draL1vcoL._SX404_BO1,204,203,200_.jpg"
